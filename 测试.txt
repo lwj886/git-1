@@ -3,4 +3,6 @@ vim 测试.txt
 esc退出
 :wq退出保存
 :q退出
-
+话剧擦拭布的
+asdjashjdsd;mnccjnasdc
+kjabsdhjfbjasdnf
